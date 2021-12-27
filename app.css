@@ -1,0 +1,14 @@
+.container{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+button{
+    height: 60px;
+    background-color: rgb(175, 177, 45);
+    color: rgb(22, 6, 252);
+    width: 150px;
+    font-size: 30px;
+    margin-left: 10px;
+}
